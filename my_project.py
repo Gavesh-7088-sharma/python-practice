@@ -1,4 +1,4 @@
-#_my_nwe project
+#_my_new project
 print("Welcome to the accounting school system!")
 name = input("Enter your name:")
 if name == "gavesh sharma":
